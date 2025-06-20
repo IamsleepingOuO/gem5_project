@@ -85,11 +85,11 @@
 
    ![新增replacement policy](https://github.com/user-attachments/assets/80875dd9-13c1-45ec-8ca7-a25a2fff2afa)
 
--原replacement policy: 
+- 原replacement policy: 
 
 ![原replacement policy(lru)](https://github.com/user-attachments/assets/1def02d9-1744-4899-9dd0-c09ee828e097)
 
--更改後replacement policy
+- 更改後replacement policy
 
 ![更改後replacement policy (lfu)](https://github.com/user-attachments/assets/acf4455b-eef2-4a96-ac3e-f750a75fed8f)
 
